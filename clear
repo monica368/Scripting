@@ -1,0 +1,81 @@
+[33mcommit 7fa710c23aca00225a3656c33a0c0d2c1f300962[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: root <root@ip-172-31-4-178.ap-south-1.compute.internal>
+Date:   Tue Nov 19 09:59:21 2024 +0000
+
+    I have repo
+
+[33mcommit 45466501187cb669b2db6b4d13151774a1f7b34a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: monica368 <monicakale09@gmail.com>
+Date:   Tue Nov 19 15:00:23 2024 +0530
+
+    file1
+
+[33mcommit 6756d1bd0e89d21b0603054580583a064b7beb22[m
+Merge: 7c13cc8 1d71ed2
+Author: Young Minds <109673364+ygminds73@users.noreply.github.com>
+Date:   Tue Nov 19 08:03:38 2024 +0530
+
+    Merge pull request #3 from ygminds73/batch-26
+    
+    Batch 26
+
+[33mcommit 1d71ed2abd21a90abd7a379642e107fece4d55c1[m
+Author: Young Minds <109673364+ygminds73@users.noreply.github.com>
+Date:   Tue Nov 19 08:03:12 2024 +0530
+
+    Update Script2.sh
+
+[33mcommit d5fa103902cbd10825070cb8d637159735f20574[m
+Author: Young Minds <109673364+ygminds73@users.noreply.github.com>
+Date:   Tue Nov 19 08:02:42 2024 +0530
+
+    Update Script1.sh
+
+[33mcommit 7c13cc837a204369a7045af200d944c7da849b62[m
+Author: Young Minds <109673364+ygminds73@users.noreply.github.com>
+Date:   Mon Nov 18 08:38:31 2024 +0530
+
+    Update Script1.sh
+
+[33mcommit cf1527eb9f7513b0bc5dca01e6817a5dbdadc6aa[m
+Merge: 2754cc9 8870501
+Author: Young Minds <109673364+ygminds73@users.noreply.github.com>
+Date:   Mon Nov 18 08:10:00 2024 +0530
+
+    Merge pull request #2 from ygminds73/b2
+    
+    I am adding changes in branch-2
+
+[33mcommit 88705016d925028a26292224ffc5ad7a986a6230[m
+Merge: d6457e1 2754cc9
+Author: Young Minds <109673364+ygminds73@users.noreply.github.com>
+Date:   Mon Nov 18 08:09:52 2024 +0530
+
+    Merge branch 'master' into b2
+
+[33mcommit 2754cc9684517c13c91220295e5eedce8963c0ec[m
+Merge: 472c4c0 7815aa6
+Author: Young Minds <109673364+ygminds73@users.noreply.github.com>
+Date:   Mon Nov 18 08:06:59 2024 +0530
+
+    Merge pull request #1 from ygminds73/b1
+    
+    this is commit in branch-1
+
+[33mcommit d6457e1396858a6dcfc49fa3eea7433b297b49c3[m
+Author: YoungMinds <ygminds73@gmail.com>
+Date:   Mon Nov 18 08:05:47 2024 +0530
+
+    I am adding changes in branch-2
+
+[33mcommit 7815aa6b5e59181dff781abe895af2bb03ee85d7[m
+Author: YoungMinds <ygminds73@gmail.com>
+Date:   Mon Nov 18 07:59:04 2024 +0530
+
+    this is commit in branch-1
+
+[33mcommit 472c4c0eaffa51ef3329e42340175188cc0fd4e4[m
+Author: YoungMinds <ygminds73@gmail.com>
+Date:   Sun Nov 17 19:28:20 2024 +0530
+
+    first commit
